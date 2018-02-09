@@ -9,8 +9,8 @@ Disks, File systems, I/O, Threads & Processes, Scheduling, Virtual Memory, Prote
 
 
 ## Assignments 
-* Assignment 0 (Raspberry Pi Setup)[https://github.com/DesertDigital/cs140e/tree/master/0-blinky]
-* Assignment 1 Shell and Bootloader
+* Assignment 0 [Raspberry Pi Setup](https://github.com/DesertDigital/cs140e/tree/master/0-blinky)
+* Assignment 1 [Shell and Bootloader](https://github.com/DesertDigital/cs140e/tree/master/1-shell)
 * Assignment 2 SD Driver and FAT File System
 * Assignment 3 Spawn
 * Assignment 4 Multitasking and Multicore
